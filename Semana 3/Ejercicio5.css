@@ -1,0 +1,9 @@
+h1{
+    background-color: rgb(18, 160, 255);
+    color: aliceblue;
+}
+p{
+    border-color: red;
+    border-style: solid;
+    color: rgb(0, 119, 255);
+}

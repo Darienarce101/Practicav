@@ -1,0 +1,18 @@
+h1 {
+    color:orange ;
+}
+
+p {
+    text-align: right;
+}
+
+body {
+    background-color: blue;
+}
+.description{
+    font-weight: bold;
+    color:white;
+}
+.special {
+    background-color: chartreuse;
+}

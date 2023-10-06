@@ -1,0 +1,11 @@
+label{
+    font-weight: bold;
+    font-size: large;
+}
+#Edad{
+    color: red;
+    font-size: x-large;
+}
+#input {
+    background-color: greenyellow;
+}
